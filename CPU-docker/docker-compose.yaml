@@ -1,0 +1,5 @@
+services:
+    rmbg2:
+        ports:
+            - 7868:7860
+        image: rmbg3

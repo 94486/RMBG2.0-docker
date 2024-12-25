@@ -1,0 +1,9 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+gradio>=4.19.0
+torch>=2.2.0
+torchvision>=0.17.0
+Pillow>=10.2.0
+transformers>=4.38.0
+timm>=0.9.12
+kornia>=0.7.1
+requests>=2.31.0
